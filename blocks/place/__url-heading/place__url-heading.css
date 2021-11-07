@@ -4,6 +4,8 @@
   line-height: 12px;
   font-weight: 400;
   letter-spacing: 2px;
+  text-transform: uppercase;
+  color: #AAAAAA;
 }
 
 @media screen and (max-width: 767px) {
